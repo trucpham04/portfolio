@@ -1,18 +1,18 @@
 const INFO = {
 	main: {
-		title: "Reactfolio by truethari",
-		name: "Tharindu N.",
-		email: "mail@tharindu.dev",
+		title: "Truc Pham Portfolio",
+		name: "Pham Duy Truc",
+		email: "trucpham04@proton.me",
 		logo: "../logo.png",
 	},
 
 	socials: {
 		twitter: "https://twitter.com/",
-		github: "https://github.com/",
+		github: "https://github.com/trucpham04",
 		linkedin: "https://linkedin.com/",
-		instagram: "https://instagram.com/",
+		instagram: "https://instagram.com/duytruc04",
 		stackoverflow: "https://stackoverflow.com/",
-		facebook: "https://facebook.com/",
+		facebook: "https://facebook.com/duytruc04",
 	},
 
 	homepage: {
@@ -22,7 +22,7 @@ const INFO = {
 	},
 
 	about: {
-		title: "I’m Tharindu N. I live in Sri Lanka, where I design the future.",
+		title: "I’m Truc Pham. I live in Ho Chi Minh City, where I design the future.",
 		description:
 			"I've worked on a variety of projects over the years and I'm proud of the progress I've made. Many of these projects are open-source and available for others to explore and contribute to. If you're interested in any of the projects I've worked on, please feel free to check out the code and suggest any improvements or enhancements you might have in mind. Collaborating with others is a great way to learn and grow, and I'm always open to new ideas and feedback.",
 	},
@@ -35,48 +35,12 @@ const INFO = {
 
 	projects: [
 		{
-			title: "Project 1",
+			title: "TD Movie",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+				"A website that allows users to explore and discover movie details using the TMDB (The Movie Database) API.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
-			link: "https://github.com",
-		},
-
-		{
-			title: "Project 2",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
-			linkText: "View Project",
-			link: "https://github.com",
-		},
-
-		{
-			title: "Project 3",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
-			linkText: "View Project",
-			link: "https://github.com",
-		},
-
-		{
-			title: "Project 4",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
-		},
-
-		{
-			title: "Project 5",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/trucpham04/td-movie",
 		},
 	],
 };
